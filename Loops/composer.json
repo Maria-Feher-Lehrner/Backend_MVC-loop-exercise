@@ -1,0 +1,19 @@
+{
+  "name": "fhtechnikum/loops",
+  "description": "A simple switchboard service to showcase mvc architecture for students",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "Fhtechnikum\\Loops\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Maria FEHER-LEHRNER",
+      "email": "pa23l004@technikum-wien.at"
+    }
+  ],
+  "require": {
+    "ext-json": "*"
+  }
+}
